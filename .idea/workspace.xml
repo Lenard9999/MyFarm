@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OBJECTP MP:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/model/Tile.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2e04cc6-0453-41d0-aaa3-176c7f522b90" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/OBJECTP_MP$Menu.ic" NAME="Menu Coverage Results" MODIFIED="1534339523639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="179" column="65" selection-start-line="179" selection-start-column="65" selection-end-line="179" selection-end-column="65" />
+              <folding>
+                <element signature="docComment;class#Game#0" />
+                <element signature="docComment;method#Game#0;class#Game#0" />
+                <element signature="method#Game#0;class#Game#0" />
+                <element signature="docComment;method#levelUP#0;class#Game#0" />
+                <element signature="method#levelUP#0;class#Game#0" />
+                <element signature="docComment;method#updateLIMITS#0;class#Game#0" />
+                <element signature="method#updateLIMITS#0;class#Game#0" />
+                <element signature="docComment;method#updateCrops#0;class#Game#0" />
+                <element signature="method#updateCrops#0;class#Game#0" />
+                <element signature="docComment;method#witherPlant#0;class#Game#0" />
+                <element signature="method#witherPlant#0;class#Game#0" />
+                <element signature="docComment;method#expirePlant#0;class#Game#0" />
+                <element signature="method#expirePlant#0;class#Game#0" />
+                <element signature="docComment;method#useItem#0;class#Game#0" />
+                <element signature="docComment;method#harvestPlant#0;class#Game#0" />
+                <element signature="method#harvestPlant#0;class#Game#0" />
+                <element signature="docComment;method#buyFertilizer#0;class#Game#0" />
+                <element signature="method#buyFertilizer#0;class#Game#0" />
+                <element signature="docComment;method#buySeed#0;class#Game#0" />
+                <element signature="method#buySeed#0;class#Game#0" />
+                <element signature="docComment;method#buyNextTitle#0;class#Game#0" />
+                <element signature="method#buyNextTitle#0;class#Game#0" />
+                <element signature="docComment;method#fruitTreeChanger#0;class#Game#0" />
+                <element signature="method#fruitTreeChanger#0;class#Game#0" />
+                <element signature="docComment;method#seedChanger#0;class#Game#0" />
+                <element signature="method#seedChanger#0;class#Game#0" />
+                <element signature="docComment;method#RESETSEEDS#0;class#Game#0" />
+                <element signature="method#RESETSEEDS#0;class#Game#0" />
+                <element signature="docComment;method#RESET#0;class#Game#0" />
+                <element signature="method#RESET#0;class#Game#0" />
+                <element signature="docComment;method#getPlayer#0;class#Game#0" />
+                <element signature="docComment;method#resetTile#0;class#Game#0" />
+                <element signature="method#resetTile#0;class#Game#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/GameController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1547">
+              <caret line="102" column="46" selection-start-line="102" selection-start-column="46" selection-end-line="102" selection-end-column="46" />
+              <folding>
+                <element signature="docComment;class#GameController#0" />
+                <element signature="docComment;method#GameController#0;class#GameController#0" />
+                <element signature="docComment;method#addTime#0;class#GameController#0" />
+                <element signature="docComment;method#setText#0;class#GameController#0" />
+                <element signature="method#setText#0;class#GameController#0" />
+                <element signature="docComment;method#printStatus#0;class#GameController#0" />
+                <element signature="method#printStatus#0;class#GameController#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Seed.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Seed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Tile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+              <folding>
+                <element signature="docComment;class#Tile#0" />
+                <element signature="method#Tile#0;class#Tile#0" />
+                <element signature="method#displayTileStatus#0;class#Tile#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fertilizer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Fertilizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Crop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Crop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding>
+                <element signature="docComment;class#Crop#0" />
+                <element signature="docComment;method#Crop#0;class#Crop#0" />
+                <element signature="method#Crop#0;class#Crop#0" />
+                <element signature="docComment;method#getBasePrice#0;class#Crop#0" />
+                <element signature="docComment;method#setStatus#0;class#Crop#0" />
+                <element signature="docComment;method#age#0;class#Crop#0" />
+                <element signature="docComment;method#addAge#0;class#Crop#0" />
+                <element signature="docComment;method#getName#0;class#Crop#0" />
+                <element signature="docComment;method#addFertMax#0;class#Crop#0" />
+                <element signature="docComment;method#addWaterMax#0;class#Crop#0" />
+                <element signature="docComment;method#getType#0;class#Crop#0" />
+                <element signature="docComment;method#getStatus#0;class#Crop#0" />
+                <element signature="docComment;method#getAge#0;class#Crop#0" />
+                <element signature="docComment;method#getHarTime#0;class#Crop#0" />
+                <element signature="docComment;method#getHarCost#0;class#Crop#0" />
+                <element signature="docComment;method#getWaterMin#0;class#Crop#0" />
+                <element signature="docComment;method#getWaterMax#0;class#Crop#0" />
+                <element signature="docComment;method#getFertMin#0;class#Crop#0" />
+                <element signature="docComment;method#getFertMax#0;class#Crop#0" />
+                <element signature="docComment;method#getYieldMin#0;class#Crop#0" />
+                <element signature="docComment;method#getYieldMax#0;class#Crop#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.plantuml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/model.plantuml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="FiniteItem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/FiniteItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding>
+                <element signature="docComment;class#FiniteItem#0" />
+                <element signature="method#FiniteItem#0;class#FiniteItem#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>run</find>
+      <find>period</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/GameWindow.java" />
+        <option value="$PROJECT_DIR$/src/model/Mango.java" />
+        <option value="$PROJECT_DIR$/src/model/model.plantuml" />
+        <option value="$PROJECT_DIR$/src/app/LotPanel.java" />
+        <option value="$PROJECT_DIR$/src/model/Tile.java" />
+        <option value="$PROJECT_DIR$/src/model/Player.java" />
+        <option value="$PROJECT_DIR$/src/model/Item.java" />
+        <option value="$PROJECT_DIR$/src/model/Seed.java" />
+        <option value="$PROJECT_DIR$/src/model/FiniteItem.java" />
+        <option value="$PROJECT_DIR$/src/model/Fertilizer.java" />
+        <option value="$PROJECT_DIR$/src/model/Crop.java" />
+        <option value="$PROJECT_DIR$/src/model/Game.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OBJECTP MP" type="58d84e3e:PackageViewProjectNode" />
+              <item name="OBJECTP MP" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="OBJECTP MP" type="58d84e3e:PackageViewProjectNode" />
+              <item name="OBJECTP MP" type="616d4139:PackageViewModuleNode" />
+              <item name="app" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="OBJECTP MP" type="58d84e3e:PackageViewProjectNode" />
+              <item name="OBJECTP MP" type="616d4139:PackageViewModuleNode" />
+              <item name="model" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="OBJECTP MP" type="58d84e3e:PackageViewProjectNode" />
+              <item name="OBJECTP MP" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OBJECTP MP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OBJECTP MP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OBJECTP MP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OBJECTP MP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OBJECTP MP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OBJECTP MP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OBJECTP MP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OBJECTP MP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Menu" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Menu" />
+      <module name="OBJECTP MP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2e04cc6-0453-41d0-aaa3-176c7f522b90" name="Default" comment="" />
+      <created>1534298050435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534298050435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="PlantUML" order="3" weight="0.32877603" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.34045583" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.4979424" weight="0.3294271" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18619792" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5020576" side_tool="true" weight="0.3294271" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/model/Player.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/model/Game.java</url>
+          <line>159</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/model/Crop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="102" column="3" selection-start-line="102" selection-start-column="3" selection-end-line="102" selection-end-column="3" />
+          <folding>
+            <element signature="docComment;class#Crop#0" />
+            <element signature="docComment;method#Crop#0;class#Crop#0" />
+            <element signature="method#Crop#0;class#Crop#0" />
+            <element signature="docComment;method#getBasePrice#0;class#Crop#0" />
+            <element signature="docComment;method#setStatus#0;class#Crop#0" />
+            <element signature="docComment;method#age#0;class#Crop#0" />
+            <element signature="docComment;method#addAge#0;class#Crop#0" />
+            <element signature="docComment;method#getName#0;class#Crop#0" />
+            <element signature="docComment;method#addFertMax#0;class#Crop#0" />
+            <element signature="docComment;method#addWaterMax#0;class#Crop#0" />
+            <element signature="docComment;method#getType#0;class#Crop#0" />
+            <element signature="docComment;method#getStatus#0;class#Crop#0" />
+            <element signature="docComment;method#getAge#0;class#Crop#0" />
+            <element signature="docComment;method#getHarTime#0;class#Crop#0" />
+            <element signature="docComment;method#getHarCost#0;class#Crop#0" />
+            <element signature="docComment;method#getWaterMin#0;class#Crop#0" />
+            <element signature="docComment;method#getWaterMax#0;class#Crop#0" />
+            <element signature="docComment;method#getFertMin#0;class#Crop#0" />
+            <element signature="docComment;method#getFertMax#0;class#Crop#0" />
+            <element signature="docComment;method#getYieldMin#0;class#Crop#0" />
+            <element signature="docComment;method#getYieldMax#0;class#Crop#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/FiniteItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="docComment;class#FiniteItem#0" />
+            <element signature="method#FiniteItem#0;class#FiniteItem#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Fertilizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OBJECTP MP.plantuml" />
+    <entry file="file://$PROJECT_DIR$/src/model/model.plantuml" />
+    <entry file="file://$PROJECT_DIR$/src/model/Mango.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.plantuml" />
+    <entry file="file://$PROJECT_DIR$/OBJECTP MP.plantuml" />
+    <entry file="file://$PROJECT_DIR$/src/model/model.plantuml" />
+    <entry file="file://$PROJECT_DIR$/src/model/Banana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Crop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="106" column="18" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/LotPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/InventoryPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/PlayerPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/GameWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/GameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2873">
+          <caret line="176" column="57" lean-forward="true" selection-start-line="176" selection-start-column="57" selection-end-line="176" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Banana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="643" column="16" selection-start-line="643" selection-start-column="16" selection-end-line="643" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OBJECTP MP.plantuml" />
+    <entry file="file://$PROJECT_DIR$/src/model/Mango.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.plantuml" />
+    <entry file="file://$PROJECT_DIR$/src/model/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/PlayerPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/ShopPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="432" column="21" selection-start-line="432" selection-start-column="21" selection-end-line="432" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/TimerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="95" column="25" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/GameWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-395">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/LotPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/InventoryPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2227">
+          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="188" column="33" selection-start-line="188" selection-start-column="33" selection-end-line="188" selection-end-column="33" />
+          <folding>
+            <element signature="docComment;class#Player#0" />
+            <element signature="method#Player#0;class#Player#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Fertilizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Seed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Tile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <element signature="docComment;class#Tile#0" />
+            <element signature="method#Tile#0;class#Tile#0" />
+            <element signature="method#displayTileStatus#0;class#Tile#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/AbstractButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="1016" column="18" selection-start-line="1016" selection-start-column="18" selection-end-line="1016" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/model.plantuml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/FiniteItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="docComment;class#FiniteItem#0" />
+            <element signature="method#FiniteItem#0;class#FiniteItem#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Crop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#Crop#0" />
+            <element signature="docComment;method#Crop#0;class#Crop#0" />
+            <element signature="method#Crop#0;class#Crop#0" />
+            <element signature="docComment;method#getBasePrice#0;class#Crop#0" />
+            <element signature="docComment;method#setStatus#0;class#Crop#0" />
+            <element signature="docComment;method#age#0;class#Crop#0" />
+            <element signature="docComment;method#addAge#0;class#Crop#0" />
+            <element signature="docComment;method#getName#0;class#Crop#0" />
+            <element signature="docComment;method#addFertMax#0;class#Crop#0" />
+            <element signature="docComment;method#addWaterMax#0;class#Crop#0" />
+            <element signature="docComment;method#getType#0;class#Crop#0" />
+            <element signature="docComment;method#getStatus#0;class#Crop#0" />
+            <element signature="docComment;method#getAge#0;class#Crop#0" />
+            <element signature="docComment;method#getHarTime#0;class#Crop#0" />
+            <element signature="docComment;method#getHarCost#0;class#Crop#0" />
+            <element signature="docComment;method#getWaterMin#0;class#Crop#0" />
+            <element signature="docComment;method#getWaterMax#0;class#Crop#0" />
+            <element signature="docComment;method#getFertMin#0;class#Crop#0" />
+            <element signature="docComment;method#getFertMax#0;class#Crop#0" />
+            <element signature="docComment;method#getYieldMin#0;class#Crop#0" />
+            <element signature="docComment;method#getYieldMax#0;class#Crop#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/GameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="102" column="46" selection-start-line="102" selection-start-column="46" selection-end-line="102" selection-end-column="46" />
+          <folding>
+            <element signature="docComment;class#GameController#0" />
+            <element signature="docComment;method#GameController#0;class#GameController#0" />
+            <element signature="docComment;method#addTime#0;class#GameController#0" />
+            <element signature="docComment;method#setText#0;class#GameController#0" />
+            <element signature="method#setText#0;class#GameController#0" />
+            <element signature="docComment;method#printStatus#0;class#GameController#0" />
+            <element signature="method#printStatus#0;class#GameController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="179" column="65" selection-start-line="179" selection-start-column="65" selection-end-line="179" selection-end-column="65" />
+          <folding>
+            <element signature="docComment;class#Game#0" />
+            <element signature="docComment;method#Game#0;class#Game#0" />
+            <element signature="method#Game#0;class#Game#0" />
+            <element signature="docComment;method#levelUP#0;class#Game#0" />
+            <element signature="method#levelUP#0;class#Game#0" />
+            <element signature="docComment;method#updateLIMITS#0;class#Game#0" />
+            <element signature="method#updateLIMITS#0;class#Game#0" />
+            <element signature="docComment;method#updateCrops#0;class#Game#0" />
+            <element signature="method#updateCrops#0;class#Game#0" />
+            <element signature="docComment;method#witherPlant#0;class#Game#0" />
+            <element signature="method#witherPlant#0;class#Game#0" />
+            <element signature="docComment;method#expirePlant#0;class#Game#0" />
+            <element signature="method#expirePlant#0;class#Game#0" />
+            <element signature="docComment;method#useItem#0;class#Game#0" />
+            <element signature="docComment;method#harvestPlant#0;class#Game#0" />
+            <element signature="method#harvestPlant#0;class#Game#0" />
+            <element signature="docComment;method#buyFertilizer#0;class#Game#0" />
+            <element signature="method#buyFertilizer#0;class#Game#0" />
+            <element signature="docComment;method#buySeed#0;class#Game#0" />
+            <element signature="method#buySeed#0;class#Game#0" />
+            <element signature="docComment;method#buyNextTitle#0;class#Game#0" />
+            <element signature="method#buyNextTitle#0;class#Game#0" />
+            <element signature="docComment;method#fruitTreeChanger#0;class#Game#0" />
+            <element signature="method#fruitTreeChanger#0;class#Game#0" />
+            <element signature="docComment;method#seedChanger#0;class#Game#0" />
+            <element signature="method#seedChanger#0;class#Game#0" />
+            <element signature="docComment;method#RESETSEEDS#0;class#Game#0" />
+            <element signature="method#RESETSEEDS#0;class#Game#0" />
+            <element signature="docComment;method#RESET#0;class#Game#0" />
+            <element signature="method#RESET#0;class#Game#0" />
+            <element signature="docComment;method#getPlayer#0;class#Game#0" />
+            <element signature="docComment;method#resetTile#0;class#Game#0" />
+            <element signature="method#resetTile#0;class#Game#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>OBJECTP MP:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OBJECTP MP</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
